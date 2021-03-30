@@ -1,0 +1,8 @@
+
+
+
+cd ~/Documents/prototypes/Heroku
+
+npm start
+
+http://localhost:3000/start
